@@ -41,7 +41,7 @@ botton: {
 bottonText: {
     color : "white",
     fontSize: 16,
-    fontWeight: 'bold',
+    fontWeight: 'semibold',
 }
 
 
