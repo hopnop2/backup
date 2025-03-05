@@ -16,10 +16,6 @@ export default function App() {
       </TouchableOpacity>
 
 
-
-
-
-     
      <StatusBar style="auto" />
   
     </View>
