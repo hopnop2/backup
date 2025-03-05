@@ -13,11 +13,8 @@ export default function App() {
       <TouchableOpacity style = {Login.botton} >  
       
       <Text style= {Login.bottonText} > Login </Text>
-      <Text style= {Login.bottonText} > Login </Text>
-      <Text style= {Login.bottonText} > Login </Text>
-      <Text style= {Login.bottonText} > Login </Text>
-      <Text style= {Login.bottonText} > Login </Text>
-      
+    
+
       </TouchableOpacity>
 
 
